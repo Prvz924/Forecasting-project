@@ -108,16 +108,16 @@ The Home page of the application that displays real time data of stock prices.
 ![image](/img1.png)
 
 To Predict stock price we move on to predicition page where we need to enter valid ticker value and number of days and click predict button.
-![image](https://user-images.githubusercontent.com/img2.png)
+![image](/img2.png)
 
 This page displays the predicted stock price alsong with searched ticker details and also generating unique QR Code to view the predicted result.
-![image](https://user-images.githubusercontent.com/img3.png)
+![image](/img3.png)
 
 The Left Graph is the real time stock price of the searched ticker for past 1day & the Right Graph is the predicted stock price for the number of days searched.
-![image](https://user-images.githubusercontent.com/img4.png)
+![image](/img4.png)
 
 The Ticker Info page displays the details of all the valid tickers accepted by the application.
-![image](https://user-images.githubusercontent.com/img5.png)
+![image](/img5.png)
 
 
 
