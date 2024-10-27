@@ -106,14 +106,14 @@
 ## Output Screen-shots:
 
 
-To Predict stock price we move on to predicition page where we need to enter valid ticker value and number of days and click predict button.
+To forecast stock price, we use this predicition page where we need to enter ticker value and number of days and click predict button.
 ![image](/img2.png)
 
-This page displays the predicted stock price alsong with searched ticker details and also generating unique QR Code to view the predicted result.
+This page displays the predicted price along with ticker details and also generating unique QR Code to view the predicted result.
 ![image](/img3.png)
 
 
-The Ticker Info page displays the details of all the valid tickers accepted by the application.
+The Ticker Info page displays the details of all the valid tickers acceptable to the application
 ![image](/img5.png)
 
 
